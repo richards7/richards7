@@ -18,13 +18,13 @@
 
 <p>
 
-🔭 <b>Currently working on</b> — Arogya Camp OS & Cloud/DevOps Projects<br/><br/>
+🔭 <b>Currently working on</b> — Production-Grade DevOps Deployment Platform & CareCamp<br/><br/>
 
 🤝 <b>Looking to collaborate on</b> — Cloud, DevOps, Full Stack and Open Source Projects<br/><br/>
 
 🌱 <b>Currently learning</b> — AWS, Kubernetes, Terraform, CI/CD and DevOps Automation<br/><br/>
 
-💬 <b>Ask me about</b> — AWS, Docker, Kubernetes, Git, GitHub and MERN Stack<br/><br/>
+💬 <b>Ask me about</b> — AWS, Docker, Kubernetes, Jenkins, Git/GitHub and MERN Stack<br/><br/>
 
 ⚡ <b>Fun fact</b> — I enjoy turning ideas into scalable applications and automating everything possible!
 
@@ -36,42 +36,48 @@
 
 <table width="100%">
   <tr>
-
-```
-<td width="33%" valign="top">
-  <h3>🏥 Arogya Camp OS</h3>
-  <p>Offline-first medical camp management platform for NGOs to manage patients, vitals, doctors, prescriptions and pharmacy.</p>
-  <p>
-    <code>React</code>
-    <code>Flask</code>
-    <code>SQLite</code>
-    <code>AWS</code>
-  </p>
-</td>
-
-<td width="33%" valign="top">
-  <h3>🐳 DockFlex PWA</h3>
-  <p>Docker and DevOps focused Progressive Web Application with Flask backend and containerized deployment.</p>
-  <p>
-    <code>Docker</code>
-    <code>Flask</code>
-    <code>Python</code>
-    <code>Nginx</code>
-  </p>
-</td>
-
-<td width="33%" valign="top">
-  <h3>☁️ Three Tier App</h3>
-  <p>Containerized three-tier application demonstrating frontend, backend and database architecture with Docker Compose.</p>
-  <p>
-    <code>React</code>
-    <code>Node.js</code>
-    <code>MongoDB</code>
-    <code>Docker</code>
-  </p>
-</td>
-```
-
+    <td width="25%" valign="top">
+      <h3>⚙️ DevOps Deployment Platform</h3>
+      <p>Production-grade CI/CD platform demonstrating end-to-end automation triggered by a git push — from build to Kubernetes deployment.</p>
+      <p>
+        <code>Spring Boot</code>
+        <code>React</code>
+        <code>Jenkins</code>
+        <code>Docker</code>
+        <code>Helm</code>
+        <code>Kubernetes</code>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🏥 CareCamp</h3>
+      <p>Offline-first PWA for NGO-run rural medical camps, covering registration, vitals, doctor consultation, pharmacy and medicine dispensing.</p>
+      <p>
+        <code>React</code>
+        <code>Node.js</code>
+        <code>MongoDB Atlas</code>
+        <code>AWS</code>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>☁️ Dockerized 3-Tier App v2.0</h3>
+      <p>Containerized three-tier app deployed on AWS EC2 with Nginx reverse proxy, SSL/TLS via Let's Encrypt, and DDNS via DuckDNS.</p>
+      <p>
+        <code>React</code>
+        <code>Node.js</code>
+        <code>MongoDB</code>
+        <code>Docker</code>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🐳 DockFlex PWA</h3>
+      <p>Docker and DevOps focused Progressive Web Application with Flask backend and containerized deployment.</p>
+      <p>
+        <code>Docker</code>
+        <code>Flask</code>
+        <code>Python</code>
+        <code>Nginx</code>
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -81,11 +87,11 @@
 
 <p align="left">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/richards7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/aashish-richard-j-860656296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -120,6 +126,7 @@
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -138,6 +145,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
@@ -158,12 +166,12 @@
 
 <img
  height="165"
- src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9"
+ src="https://github-readme-stats.vercel.app/api?username=richards7&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9"
 />
 
 <img
  height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richards7&hide_border=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
 />
 
 </div>
@@ -173,7 +181,7 @@
 <div align="center">
 
 <img
- src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=richards7&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e"
  alt="GitHub Streak Stats"
 />
 
@@ -186,7 +194,7 @@
 <div align="center">
 
 <img
- src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
+ src="https://github-readme-activity-graph.vercel.app/graph/?username=richards7&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
  alt="GitHub Activity Graph"
 />
 
@@ -196,7 +204,7 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&icon=0&color=0EA5E9" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=richards7&icon=0&color=0EA5E9" alt="Profile Views"/>
 
 </div>
 
