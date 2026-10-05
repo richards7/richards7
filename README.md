@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=200&section=header&text=Aashish%20Richard&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer&descAlignY=58&descSize=20" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=200&section=header&text=Aashish%20Richard%20J&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer&descAlignY=58&descSize=20" alt="Header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Cloud+and+DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Jenkins;Building+Scalable+Applications" alt="Typing SVG"/>
 
