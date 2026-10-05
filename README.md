@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Chennai%2C%20India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location"/>
+<img src="https://img.shields.io/badge/Hosur%2C%20Tamil%20Nadu-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location"/>
 
 </div>
 
@@ -164,15 +164,19 @@
 
 <br/>
 
-## 📈 GitHub Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=richards7&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richards7/richards7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richards7/richards7/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/richards7/richards7/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
-<img src="https://hits.sh/github.com/richards7.svg?style=for-the-badge&label=Profile%20Views&color=0EA5E9&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://hits.sh/github.com/richards7/richards7.svg?style=for-the-badge&label=Profile%20Views&color=0EA5E9&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
